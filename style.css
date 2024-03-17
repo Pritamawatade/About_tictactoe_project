@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: aqua;
+}
+.page{
+    background-color: green;
+    
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    padding: 150px 22px;
+    /* padding-top: 100px; */
+    border-radius: 10px;
+}
+.mainText{
+    color: rgb(7, 249, 237);
+    font-size: 30px;
+    font-weight: 800;
+}
+.head{
+    position: absolute;
+    left: 40%;
+
+    top: 10%;
+    font-size: 33px;
+    font-weight: 100;
+    color: chocolate;
+}
